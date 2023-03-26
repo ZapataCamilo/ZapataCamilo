@@ -3,7 +3,6 @@
     <h1 align="center">Hi 👋, I'm Camilo</h1>
 <h3 align="center">A passionate Holberton Shcool student from Colombia</h3>
 
-<h1 align="center">Hi 👋, I'm Camilo</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zapatacamilo&label=Profile%20views&color=0e75b6&style=flat" alt="zapatacamilo" /> </p>
@@ -12,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Camilo Zapata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Camilo ZZapata" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/camilo-zapata-41a045259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camilo-zapata-41a045259" height="30" width="40" /></a>
 <a href="https://discord.gg/#3367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3367" height="30" width="40" /></a>
 </p>
 
