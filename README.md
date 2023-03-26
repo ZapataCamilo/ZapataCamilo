@@ -1,7 +1,7 @@
 <div id ="header" align="center" >
     <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width"100"/>
     <h1 align="center">Hi 👋, I'm Camilo</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate Holberton Shcool student from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zapatacamilo&label=Profile%20views&color=0e75b6&style=flat" alt="zapatacamilo" /> </p>
 
