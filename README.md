@@ -1,5 +1,5 @@
 <div id ="header" align="center" >
-    <h14 align="center">you can send me an email at: 📫<b>zapatcamilo86@gmail.com</b><📫/h4>
+    <h14 align="center">you can send me an email at: 📫<b>zapatcamilo86@gmail.com</b>📫</h4>
     <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width"100"/>
     <h1 align="center">Hi 👋, I'm Camilo</h1>
 <h3 align="center">A passionate Holberton Shcool student from Colombia</h3>
