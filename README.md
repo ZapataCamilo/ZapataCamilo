@@ -7,7 +7,6 @@
 <p align="left"> - Software developer Junior graduated from Holberton School with solid knowledge in programming fundamentals thanks to the Software Foundation program.</p>
 <p align="left"> - Passionate about technology and constantly learning, looking for new opportunities to prove my value and grow professionally in the technology industry.</p>
 <p align="left"> - Experience in Front-end and Back-end projects.</p>
-<hr/>
 <h3 align="left">👨‍💻 Skills</h3>
 <p align="left">My experience covers both Front-end and Back-end development, allowing me to contribute in an integral way to diverse projects. I possess a solid skill set and am willing to face new technological challenges.</p>
 <h3 align="left">🎯 Open to Collaborations:</h3>
