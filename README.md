@@ -4,7 +4,7 @@
     <h1 align="center">Hi 👋, I'm Camilo</h1>
 <h3 align="center">Hi! I am a passionate Software Developer, a graduate of Holberton School with solid knowledge in programming fundamentals acquired through the Software Foundation program.</h3>
 <h4>About me</h4>
-- 👨‍💻 **I consider myself** a technology enthusiast, always looking for new opportunities to prove myself and grow professionally in the vibrant technology industry. My main goal is to constantly learn and apply my skills in challenging projects
+- 👨‍💻 I consider myself a technology enthusiast, always looking for new opportunities to prove myself and grow professionally in the vibrant technology industry. My main goal is to constantly learn and apply my skills in challenging projects.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zapatacamilo&label=Profile%20views&color=0e75b6&style=flat" alt="zapatacamilo" /> </p>
