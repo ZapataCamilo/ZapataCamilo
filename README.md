@@ -3,8 +3,10 @@
     <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width"100"/>
     <h1 align="center">Hi 👋, I'm Camilo</h1>
 <h3 align="center">Hi! I am a passionate Software Developer, a graduate of Holberton School with solid knowledge in programming fundamentals acquired through the Software Foundation program.</h3>
-<h3 align="left">About me</h3>
-<p align="left">👨‍💻 I consider myself a technology enthusiast, always looking for new opportunities to prove myself and grow professionally in the vibrant technology industry. My main goal is to constantly learn and apply my skills in challenging projects.</p>
+<h3 align="left">👨‍💻 About me</h3>
+<p align="left"> - Software developer graduated from Holberton School with solid knowledge in programming fundamentals thanks to the Software Foundation program.<hr/>
+- Passionate about technology and constantly learning, looking for new opportunities to prove my value and grow professionally in the technology industry.<hr/>
+- Experience in Front-end and Back-end projects.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zapatacamilo&label=Profile%20views&color=0e75b6&style=flat" alt="zapatacamilo" /> </p>
