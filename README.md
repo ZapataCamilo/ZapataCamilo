@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width"100"/>
     <h1 align="center">Hi 👋, I'm Camilo</h1>
 <h3 align="center">Hi! I am a passionate Software Developer, a graduate of Holberton School with solid knowledge in programming fundamentals acquired through the Software Foundation program.</h3>
-<h4 align="left">About me</h4>
+<h3 align="left">About me</h3>
 <p align="left"> - 👨‍💻 I consider myself a technology enthusiast, always looking for new opportunities to prove myself and grow professionally in the vibrant technology industry. My main goal is to constantly learn and apply my skills in challenging projects.</p>
 
 
