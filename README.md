@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/camilo-zapata-41a045259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camilo-zapata-41a045259" height="30" width="40" /></a>
 <a href="https://discord.gg/367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="367" height="30" width="40" /></a>
-<a href="#" alt="Resume" height="30" width="40"><img align="center" src="https://icons.veryicon.com/png/o/miscellaneous/general-icon-library/resume-7.png" alt="Resume" height="30" width="40"></a>
+<a href="https://drive.google.com/file/d/1lrjw5ONS1YCEj9OwewENdyDu43IZQ_hj/view?usp=sharing" alt="Resume" height="30" width="40"><img align="center" src="https://icons.veryicon.com/png/o/miscellaneous/general-icon-library/resume-7.png" alt="Resume" height="30" width="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
