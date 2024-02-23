@@ -4,7 +4,7 @@
     <h1 align="center">Hi 👋, I'm Camilo</h1>
 <h3 align="center">A passionate Holberton Shcool student from Colombia</h3>
 <h4>Hi! I am a passionate Software Developer, a graduate of Holberton School with solid knowledge in programming fundamentals acquired through the Software Foundation program.</h4>
-<p>🔭 I’m currently working on my web site</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zapatacamilo&label=Profile%20views&color=0e75b6&style=flat" alt="zapatacamilo" /> </p>
 
