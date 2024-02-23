@@ -2,7 +2,7 @@
     <h14 align="center">you can send me an email at: 📫<b>zapatacamilo86@gmail.com</b>📫</h4>
     <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width"100"/>
     <h1 align="center">Hi 👋, I'm Camilo</h1>
-<h4>Hi! I am a passionate Software Developer, a graduate of Holberton School with solid knowledge in programming fundamentals acquired through the Software Foundation program.</h4>
+<h3>Hi! I am a passionate Software Developer, a graduate of Holberton School with solid knowledge in programming fundamentals acquired through the Software Foundation program.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zapatacamilo&label=Profile%20views&color=0e75b6&style=flat" alt="zapatacamilo" /> </p>
